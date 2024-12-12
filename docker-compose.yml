@@ -5,4 +5,4 @@ services:
     restart: unless-stopped
     stop_grace_period: 5m
     environment:
-      - PROVER_ID=PROVER_ID_HERE
+      - PROVER_ID=lMY1BR1xDtPgt5WX2bFxdrcWSDn1
